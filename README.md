@@ -1,3 +1,4 @@
+<img src="https://kevurugames.com/wp-content/uploads/2021/01/banner_android-vs-ios.jpg" width="1000" height="400">
 <h1 align="center">Hello 🙏, I'm Hritik Sharma</h1>
 <h3 align="center">A passionate Android and Ios developer</h3>
 
